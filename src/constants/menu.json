@@ -1,0 +1,14 @@
+[
+  {
+    "name": "With Class",
+    "path": "/"
+  },
+  {
+    "name": "With Hooks",
+    "path": "/hooks"
+  },
+  {
+    "name": "With Hooks and Fetch API",
+    "path": "/fetch"
+  }
+]
